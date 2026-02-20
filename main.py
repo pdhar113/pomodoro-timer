@@ -77,7 +77,7 @@ title_label.place(relx=0.5, y=70, anchor="center")
 
 # canvas
 canvas = Canvas(width=500, height=500, bg=YELLOW, highlightthickness=0)
-tomato_img = PhotoImage(file="pixel-tomato.png")
+tomato_img = PhotoImage(file="images/pixel-tomato.png")
 canvas.create_image(250, 210, image=tomato_img)
 timer_text = canvas.create_text(
     250, 270, text="00:00", fill="white", font=(FONT_NAME, 35, "bold")

@@ -33,6 +33,12 @@ A simple and aesthetic Pomodoro Timer application built with Python and Tkinter.
 - **START**: Begins the timer and starts the reps.
 - **RESET**: Stops the current timer and resets the progress back to zero.
 
+## Screenshots
+
+| Work Phase | Break Phase |
+|:----------:|:-----------:|
+| ![Work Phase](images/screenshots/Screenshot%202026-02-20%20164909.png) | ![Break Phase](images/screenshots/Screenshot%202026-02-20%20165024.png) |
+
 ## Project Structure
 
 - `main.py`: The main application logic and UI setup.
